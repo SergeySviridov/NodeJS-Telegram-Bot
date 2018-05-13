@@ -1,0 +1,26 @@
+{
+  "name": "my1pyton",
+  "version": "1.0.0",
+  "description": "none",
+  "main": "index.js",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.30.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "10.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SergeySviridov/NodeJSTb13.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SergeySviridov/NodeJSTb13/issues"
+  },
+  "homepage": "https://github.com/SergeySviridov/NodeJSTb13#readme"
+}
